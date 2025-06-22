@@ -1,4 +1,3 @@
-Analyzing 2024 batters to optimize performance 
 ⚾ MLB Player KPI & Predictive Ranking Model (2024 Season)
 📌 Objective
 This project analyzes 2024 season MLB batter statistics to identify Key Performance Indicators (KPIs) that contribute to player success, particularly their expected contribution to team wins. Using advanced metrics such as xWOBA, Barrel Rate, and Hard Hit Rate, the project builds a predictive model and ranks players based on these KPIs.
